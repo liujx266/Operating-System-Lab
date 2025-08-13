@@ -5,3 +5,6 @@
 ## 版本：YSOS
 
 本仓库内容为本人的操作系统实验课程代码与实验报告，在此分享。
+
+[实验教程仓库](https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-2)
+[实验教程网站](https://ysos.gzti.me/)
