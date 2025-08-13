@@ -1,0 +1,9 @@
+[package]
+name = "ysos_dinner"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+lib = { workspace = true }
+rand = { version = "0.8", default-features = false }
+rand_chacha = { version = "0.3", default-features = false }
